@@ -31,7 +31,6 @@
   width: 730px;
   display: flex;
   align-items: center;
-  margin: auto;
   line-height: 96px;
   font-size: 102px;
   font-weight: bold;
@@ -123,11 +122,9 @@
   justify-content: center;
   align-items: flex-start;
   margin: 0 auto 100px;
-  border: 1px solid red;
 }
 
 .section-title {
-  border: 1px solid blue;
   display: flex;
   width: 60%;
   justify-content: center;
@@ -138,7 +135,6 @@
 }
 
 .section-subtitle {
-  border: 1px solid blue;
   display: flex;
   justify-content: center;
   margin: 20px auto 0;
@@ -157,13 +153,11 @@
   flex-direction: row;
   justify-content: space-between;
   margin: auto;
-  border: 1px solid blue;
 }
 
 .table__cell {
   width: 250px;
   margin-top: 60px;
-  border: 1px solid rgb(0, 255, 179);
 }
 
 .table__heading {
@@ -171,7 +165,6 @@
   line-height: 1.15;
   font-size: 24px;
   font-weight: bold;
-  border: 1px solid rgb(166, 255, 0);
 }
 
 .table__text {
@@ -179,7 +172,61 @@
   font-size: 18px;
   font-weight: normal;
   margin: 20px auto 0;
-  border: 1px solid rgb(166, 255, 0);
+}
+
+.feynman {
+  height: 790px;
+  background-color: #f2f2f2;
+  display: flex;
+  position: relative;
+  margin: 0 auto 100px;
+}
+
+.feynman__text {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 auto 0;
+}
+
+.feynman__title {
+  display: flex;
+  width: 775px;
+  margin: 100px auto 0;
+  text-align: center;
+  line-height: 1.15;
+  font-size: 120px;
+  font-weight: bold;
+  z-index: 1;
+}
+
+.feynman__subtitle {
+  display: flex;
+  justify-content: center;
+  margin: 70px auto 0;
+  line-height: 51px;
+  font-size: 36px;
+  font-weight: normal;
+  z-index: 1;
+}
+
+.feynman__link {
+  position: absolute;
+  top: 50%;
+  right: 48px;
+  line-height: 51px;
+  font-size: 36px;
+  font-weight: normal;
+}
+
+.feynman__image {
+  position: absolute;
+  height: 637px;
+  width: 867px;
+  display: flex;
+  bottom: 0;
+  left: 0;
+  z-index: 0;
 }
 
 /* here we have two examples of selectors in order to remind you how to set styles for elements */
