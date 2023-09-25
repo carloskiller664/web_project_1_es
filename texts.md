@@ -2,9 +2,9 @@ Título: Aprender a aprender
 
 Subtítulo: Las técnicas de aprendizaje más eficaces y avanzadas que puedes aplicar en tu vida diaria
 
+---
 
-___________________________
-Bloque de descripción: 
+Bloque de descripción:
 El principal problema de la educación
 
 Ya sea en la escuela o en la universidad, lo único que nadie te enseña es a enseñarte a ti mismo. Muchas veces acabamos haciendo ejercicios específicos y memorizando información sin pensar, para que cuando llegue la hora del examen, aprobemos la prueba. Pero una vez terminada la prueba, esa información ya no tiene utilidad, y no hay garantía de que se conserve. Al final, solo estamos aprendiendo a pasar las pruebas.
@@ -12,8 +12,8 @@ Ya sea en la escuela o en la universidad, lo único que nadie te enseña es a en
 Aquí está la verdadera pregunta: ¿este enfoque de repetición y memorización nos ayuda a comprender realmente la materia? El consenso académico actual es que no. En realidad, lo que es más importante que cualquier tema individual es saber cómo estudiar, pero por alguna razón, este punto a menudo se pasa por alto. Entonces, ¿qué podemos hacer para remediarlo?
 Bien, hay varias técnicas y ejercicios que pueden aplicarse al proceso educativo para ayudar a hacerlo más eficiente y atractivo. Continúa avanzando para descubrir algunos de los secretos del aprendizaje eficaz.
 
+---
 
-___________________________
 Digits block:
 Datos y figuras
 El aprendizaje y el cerebro
@@ -42,13 +42,14 @@ Desarrollo de la curva del olvido
 1897
 Publicación de las investigaciones de Ivan Pavlov sobre el condicionamiento clásico
 
-___________________________
+---
+
 Bloque Feynman:
 La técnica Feynman
 Aprender sin olvidar
 
+---
 
-___________________________
 Bloque Kaufman:
 
 Diez principios para adquirir habilidades rápidamente
@@ -66,8 +67,8 @@ Crear bucles de retroalimentación rápidos
 Practicar en breves intervalos con un reloj
 Enfatizar la cantidad y la velocidad
 
+---
 
-___________________________
 Bloque de pie de página:
 Acerca de Practicum
 Página principal
