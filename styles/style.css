@@ -1,4 +1,4 @@
-@import url("./rotación.css");
+@import "rotación.css";
 
 .page {
   min-width: 1100px;
