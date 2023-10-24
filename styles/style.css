@@ -310,7 +310,7 @@
   flex-direction: row;
 }
 
-.column__content_copyright {
+.footer__column_content_copyright {
   flex-basis: 711px;
   justify-content: space-around;
 }
@@ -332,12 +332,12 @@
   bottom: 18px;
 }
 
-.column__content_about {
+.footer__column_content_about {
   display: flex;
   flex-direction: column;
 }
 
-.column__heading {
+.footer__column-heading {
   color: white;
   margin: 0 auto 0;
   line-height: 30px;
@@ -346,14 +346,16 @@
 }
 
 .footer__links {
+  display: flex;
+  flex-direction: column;
   margin-top: 20px;
 }
 
-.column__content_socials {
+.footer__column_content_socials {
   display: flex;
   flex-direction: column;
 }
-.footer__column-link {
+.footer__column_column-link {
   color: white;
   display: flex;
   align-items: center;
