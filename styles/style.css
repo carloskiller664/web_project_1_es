@@ -286,7 +286,9 @@
 
 .table__cell_theme_dark {
   width: 200px;
-  margin: 80px auto 0;
+  color: white;
+  margin-right: 0;
+  margin-top: 80px;
 }
 
 .heading__theme_dark {
@@ -393,12 +395,6 @@
   margin-right: 10px;
 }
 /* including elements with key-value modifiers */
-.table__cell_theme_dark {
-  width: 200px;
-  color: white;
-  margin-right: 0;
-  margin-top: 80px;
-}
 
 .techniques {
   margin: auto;
