@@ -310,7 +310,7 @@
   flex-direction: row;
 }
 
-.footer__column_content_copyright {
+.column__content_copyright {
   flex-basis: 711px;
   justify-content: space-around;
 }
@@ -332,12 +332,12 @@
   bottom: 18px;
 }
 
-.footer__column_content_about {
+.column__content_about {
   display: flex;
   flex-direction: column;
 }
 
-.footer__column_heading {
+.column__heading {
   color: white;
   margin: 0 auto 0;
   line-height: 30px;
@@ -349,7 +349,7 @@
   margin-top: 20px;
 }
 
-.footer__column_content_socials {
+.column__content_socials {
   display: flex;
   flex-direction: column;
 }
