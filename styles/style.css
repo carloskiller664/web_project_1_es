@@ -249,7 +249,7 @@
   overflow: hidden;
 }
 
-.kaufman__section-title_theme_dark {
+.section__title_theme_dark {
   display: flex;
   color: white;
   text-align: center;
@@ -262,7 +262,7 @@
   z-index: 1;
 }
 
-.kaufman__section-subtitle_theme_dark {
+.section__subtitle_theme_dark {
   display: flex;
   color: white;
   justify-content: center;
@@ -274,7 +274,7 @@
   z-index: 1;
 }
 
-.kaufman__table_theme_dark {
+.table__theme_dark {
   width: 1100px;
   display: flex;
   flex-wrap: wrap;
@@ -284,12 +284,12 @@
   z-index: 1;
 }
 
-.kaufman__table_cell_theme_dark {
+.table__cell_theme_dark {
   width: 200px;
   margin: 80px auto 0;
 }
 
-.kaufman__table_heading_themme_dark {
+.heading__theme_dark {
   margin: 0 auto 0;
   color: #fff;
   line-height: 1.15;
@@ -297,7 +297,7 @@
   font-weight: bold;
 }
 
-.kaufman__table_text_themme_dark {
+.table__text_theme_dark {
   line-height: 1.2;
   color: #fff;
   font-size: 18px;
