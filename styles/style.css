@@ -249,7 +249,7 @@
   overflow: hidden;
 }
 
-.section__title_theme_dark {
+.section-title_theme_dark {
   display: flex;
   color: white;
   text-align: center;
@@ -262,7 +262,7 @@
   z-index: 1;
 }
 
-.section__subtitle_theme_dark {
+.section-subtitle_theme_dark {
   display: flex;
   color: white;
   justify-content: center;
@@ -274,7 +274,7 @@
   z-index: 1;
 }
 
-.table__theme_dark {
+.table_theme_dark {
   width: 1100px;
   display: flex;
   flex-wrap: wrap;
