@@ -1,4 +1,4 @@
-.footer__column_column-link {
+.footer__column-link {
   color: white;
   display: flex;
   align-items: center;
@@ -6,4 +6,8 @@
   font-size: 18px;
   font-weight: normal;
   text-decoration: none;
+}
+
+.footer__column-link:hover {
+  opacity: 50%;
 }

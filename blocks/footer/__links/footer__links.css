@@ -3,7 +3,3 @@
   flex-direction: column;
   margin-top: 20px;
 }
-
-.footer__links:hover {
-  opacity: 50%;
-}
